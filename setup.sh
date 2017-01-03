@@ -39,15 +39,11 @@ git push origin master
 msg "Returning to the \`$SOURCE\` branch"
 git checkout -f "$SOURCE"
 
-msg "Removing the \`public\` folder to make room for the \`master\` subtree"
-rm -rf public
+msg "Removing the \`_book\` folder to make room for the \`master\` subtree"
+rm -rf _book
 git add -u
-git commit -m "Remove stale public folder"
+git commit -m "Remove stale book folder"
 
 msg "Adding the new \`master\` branch as a subtree"
 git subtree add --prefix=public \
     git@github.com:$USERNAME/$USERNAME.github.io.git master --squash
-
-# msg "Pulling down the just committed file to help avoid merge conflicts"
-#git subtree pull --prefix=public \
-#    git@github.com:$USERNAME/$USERNAME.github.io.git master
