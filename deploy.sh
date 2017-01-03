@@ -24,7 +24,7 @@ msg() {
 }
 
 msg "Pulling down the \`master\` branch into \`_book\` to help avoid merge conflicts"
-git subtree pull --prefix=public \
+git subtree pull --prefix=_book \
     git@github.com:$USERNAME/autoBookdown origin master -m "Merge origin master"
 
 msg "Pushing the updated \`_book\` folder to the \`$SOURCE\` branch"
@@ -33,5 +33,5 @@ git commit -m "$MESSAGE"
 git push origin "$SOURCE"
 
 msg "Pushing the updated \`_book\` folder to the \`master\` branch"
-git subtree push --prefix=public \
+git subtree push --prefix=_book \
     git@github.com:$USERNAME/autoBookdown master

@@ -45,5 +45,5 @@ git add -u
 git commit -m "Remove stale book folder"
 
 msg "Adding the new \`master\` branch as a subtree"
-git subtree add --prefix=public \
+git subtree add --prefix=_book \
     git@github.com:$USERNAME/autoBookdown master --squash
