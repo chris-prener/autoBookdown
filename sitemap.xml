@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work7/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work8/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work9/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work10/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/work1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/post/hello-world/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/blog/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/blog/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/blog/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/blog/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/categories/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/categories/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/categories/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/portfolio/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chris-prener.github.io/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
